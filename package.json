@@ -1,0 +1,11 @@
+{
+  "name": "franklin",
+  "version": "0.1.0",
+  "description": "A big ol' framework built around React and Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Westbom <michael@agilion.com>",
+  "license": "ISC"
+}
